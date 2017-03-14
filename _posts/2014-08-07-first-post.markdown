@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lorem Ipsum"
+title:  "ABC"
 date:   2014-08-31 14:36:23
 permalink: /first-post.html
 ---
